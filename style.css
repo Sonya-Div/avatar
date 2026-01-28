@@ -38,14 +38,14 @@ body {
     width: 98%;
     min-height: 640px;
     background: linear-gradient(to left bottom, var(--second-color) 30%, var(--third-color)),
-                url(/images/eye1.jpg) center/cover no-repeat;
+                url(images/eye1.jpg) center/cover no-repeat;
     transition: all 0.4s ease;
     padding: 10px;
 }
 
 #home:hover {
     background: linear-gradient(to left bottom, var(--forth-color) 30%, transparent),
-                url(/images/eye1.jpg) center/cover no-repeat;
+                url(images/eye1.jpg) center/cover no-repeat;
 }
 
 /* الهيدر */
@@ -166,13 +166,13 @@ section {
     to bottom, 
     var(--sixth-color) 20%,    /* شفاف من فوق عشان تبين ملامح الشخصية */
     var(--seventh-color) 90%   /* أزرق غامق جداً (نفس لون موقع) من تحت عشان النص يوضح */
-),  url(/images/photo_2026-01-19_19-07-54.jpg) center/cover no-repeat;
+),  url(images/photo_2026-01-19_19-07-54.jpg) center/cover no-repeat;
 }
 .clans-container .omat-clans{
-    background:linear-gradient(to bottom ,var(--sixth-color) 20% ,var(--seventh-color) 90%), url(/images/photo_2026-01-19_19-08-23.jpg) center/cover no-repeat;
+    background:linear-gradient(to bottom ,var(--sixth-color) 20% ,var(--seventh-color) 90%), url(images/photo_2026-01-19_19-08-23.jpg) center/cover no-repeat;
 }
 .clans-container .ash-clans{
-    background:linear-gradient(to bottom ,var(--sixth-color) 20% ,var(--seventh-color) 90%), url(/images/photo_2026-01-19_19-08-31.jpg) center/cover no-repeat;
+    background:linear-gradient(to bottom ,var(--sixth-color) 20% ,var(--seventh-color) 90%), url(images/photo_2026-01-19_19-08-31.jpg) center/cover no-repeat;
 }
 .clans-container h3{
     font-weight: bold;
